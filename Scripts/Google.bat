@@ -1,0 +1,1 @@
+gcloud compute instances create ins11 --image debian-7 --zone us-central1-a
